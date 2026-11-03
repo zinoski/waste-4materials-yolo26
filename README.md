@@ -30,3 +30,8 @@ Aucun fichier de licence ni provenance commerciale n’a été trouvé dans le d
 ## Intégrité
 
 Le SHA-256 de l’archive est dans `dataset_v2.zip.sha256`.
+
+## Modèle iPhone
+
+L’export Core ML YOLO26s à huit classes est dans [mobile/](mobile/README_FR.md). Ce modèle provient du dataset SortWaste d’entraînement, pas du dataset v2 quatre matières décrit plus haut.
+
